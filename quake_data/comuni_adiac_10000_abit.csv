@@ -1,0 +1,664 @@
+,Comune,comuni_adiac_10000_abit
+0,abbateggio,0.0
+1,acciano,0.0
+2,accumoli,0.0
+3,acquacanina,0.0
+4,acqualagna,1.0
+5,acquapendente,0.0
+6,acquasanta terme,1.0
+7,acquasparta,3.0
+8,acquaviva picena,3.0
+9,agugliano,2.0
+10,alanno,0.0
+11,alba adriatica,2.0
+12,allerona,1.0
+13,allumiere,3.0
+14,altidona,1.0
+15,alviano,1.0
+16,amandola,0.0
+17,amatrice,0.0
+18,amelia,1.0
+19,ancarano,1.0
+20,ancona,2.0
+21,anghiari,2.0
+22,antrodoco,1.0
+23,apecchio,1.0
+24,apiro,3.0
+25,appignano,2.0
+26,appignano del tronto,1.0
+27,arcevia,0.0
+28,arezzo,3.0
+29,ari,0.0
+30,arielli,0.0
+31,arlena di castro,0.0
+32,arquata del tronto,0.0
+33,arrone,1.0
+34,arsita,1.0
+35,ascoli piceno,0.0
+36,ascrea,0.0
+37,assisi,2.0
+38,atri,4.0
+39,attigliano,1.0
+40,avigliano umbro,2.0
+41,badia tedalda,1.0
+42,bagnoregio,3.0
+43,barbara,0.0
+44,barbarano romano,1.0
+45,barchi,0.0
+46,barete,1.0
+47,barisciano,1.0
+48,baschi,2.0
+49,basciano,1.0
+50,bassano romano,1.0
+51,bassano in teverina,0.0
+52,bastia umbra,2.0
+53,belforte all'isauro,0.0
+54,belforte del chienti,1.0
+55,bellante,1.0
+56,belmonte piceno,1.0
+57,belmonte in sabina,1.0
+58,belvedere ostrense,1.0
+59,bettona,2.0
+60,bevagna,1.0
+61,bibbiena,0.0
+62,bisenti,1.0
+63,blera,1.0
+64,bolognano,0.0
+65,bolognola,0.0
+66,bolsena,2.0
+67,bomarzo,1.0
+68,borbona,0.0
+69,borgo pace,2.0
+70,borgo velino,0.0
+71,borgorose,1.0
+72,bracciano,2.0
+73,brittoli,0.0
+74,bucchianico,1.0
+75,bussi sul tirino,0.0
+76,cagli,1.0
+77,cagnano amiterno,1.0
+78,calascio,0.0
+79,calcata,0.0
+80,caldarola,0.0
+81,calvi dell'umbria,1.0
+82,camerano,3.0
+83,camerata picena,4.0
+84,camerino,0.0
+85,campagnano di roma,3.0
+86,campello sul clitunno,1.0
+87,campli,1.0
+88,campofilone,0.0
+89,camporotondo di fiastrone,1.0
+90,campotosto,1.0
+91,canale monterano,0.0
+92,canepina,1.0
+93,cannara,1.0
+94,canosa sannita,0.0
+95,cantalice,1.0
+96,cantalupo in sabina,0.0
+97,cantiano,1.0
+98,canzano,1.0
+99,capena,2.0
+100,capestrano,0.0
+101,capitignano,1.0
+102,capodimonte,1.0
+103,capolona,1.0
+104,caporciano,0.0
+105,cappelle sul tavo,3.0
+106,capranica,1.0
+107,caprarola,2.0
+108,caprese michelangelo,0.0
+109,caramanico terme,1.0
+110,carapelle calvisio,0.0
+111,carassai,0.0
+112,carbognano,0.0
+113,carpegna,0.0
+114,carpineto della nora,0.0
+115,carsoli,0.0
+116,cartoceto,1.0
+117,casacanditella,0.0
+118,casalincontrada,1.0
+119,casaprota,0.0
+120,cascia,0.0
+121,casoli,0.0
+122,casperia,1.0
+123,castel castagna,0.0
+124,castel focognano,1.0
+125,castel frentano,1.0
+126,castel giorgio,1.0
+127,castel ritaldi,1.0
+128,castel sant'angelo,1.0
+129,castel sant'elia,1.0
+130,castel viscardo,1.0
+131,castel del monte,0.0
+132,castel di lama,1.0
+133,castel di tora,0.0
+134,castelbellino,1.0
+135,casteldelci,0.0
+136,castelfidardo,4.0
+137,castellalto,1.0
+138,castelleone di suasa,0.0
+139,castelli,0.0
+140,castelnuovo di farfa,1.0
+141,castelplanio,0.0
+142,castelraimondo,2.0
+143,castelsantangelo sul nera,0.0
+144,castelvecchio calvisio,0.0
+145,castiglion fiorentino,2.0
+146,castiglione messer raimondo,1.0
+147,castiglione a casauria,0.0
+148,castiglione del lago,3.0
+149,castiglione in teverina,1.0
+150,castignano,1.0
+151,castilenti,2.0
+152,castorano,1.0
+153,catignano,0.0
+154,celano,1.0
+155,celleno,1.0
+156,cellino attanasio,1.0
+157,cepagatti,3.0
+158,cermignano,1.0
+159,cerreto d'esi,2.0
+160,cerreto di spoleto,0.0
+161,cessapalombo,0.0
+162,cetona,0.0
+163,chianciano terme,1.0
+164,chiaravalle,3.0
+165,chieti,4.0
+166,chitignano,0.0
+167,chiusi,2.0
+168,chiusi della verna,1.0
+169,cingoli,2.0
+170,citerna,2.0
+171,cittaducale,1.0
+172,cittareale,0.0
+173,città sant'angelo,3.0
+174,città della pieve,1.0
+175,città di castello,5.0
+176,civita castellana,0.0
+177,civitanova marche,3.0
+178,civitaquana,0.0
+179,civitella casanova,1.0
+180,civitella san paolo,1.0
+181,civitella d'agliano,2.0
+182,civitella del tronto,1.0
+183,collalto sabino,0.0
+184,collazzone,2.0
+185,colle di tora,0.0
+186,collecorvino,1.0
+187,colledara,0.0
+188,collegiove,0.0
+189,collepietro,0.0
+190,collevecchio,1.0
+191,colli del tronto,1.0
+192,colli sul velino,2.0
+193,colmurano,1.0
+194,colonnella,3.0
+195,comunanza,0.0
+196,concerviano,1.0
+197,configni,0.0
+198,contigliano,1.0
+199,controguerra,1.0
+200,corchiano,1.0
+201,corciano,2.0
+202,corfinio,0.0
+203,corinaldo,0.0
+204,corridonia,3.0
+205,corropoli,2.0
+206,cortino,1.0
+207,cortona,7.0
+208,corvara,0.0
+209,cossignano,0.0
+210,costacciaro,2.0
+211,cottanello,0.0
+212,crecchio,1.0
+213,crognaleto,1.0
+214,cugnoli,0.0
+215,cupra marittima,1.0
+216,cupramontana,0.0
+217,deruta,3.0
+218,elice,3.0
+219,esanatoglia,2.0
+220,fabriano,2.0
+221,fabrica di roma,1.0
+222,fabro,0.0
+223,fagnano alto,0.0
+224,falconara marittima,3.0
+225,faleria,1.0
+226,falerone,0.0
+227,fano,2.0
+228,fano adriano,1.0
+229,fara filiorum petri,0.0
+230,fara in sabina,0.0
+231,farindola,1.0
+232,ferentillo,1.0
+233,fermignano,1.0
+234,fermo,3.0
+235,fiamignano,0.0
+236,fiano romano,0.0
+237,fiastra,0.0
+238,ficulle,1.0
+239,filacciano,0.0
+240,filetto,0.0
+241,filottrano,3.0
+242,fiordimonte,0.0
+243,fiuminata,2.0
+244,foiano della chiana,3.0
+245,folignano,1.0
+246,foligno,0.0
+247,fontecchio,0.0
+248,forano,0.0
+249,force,0.0
+250,fossa,1.0
+251,fossato di vico,3.0
+252,fossombrone,1.0
+253,francavilla al mare,4.0
+254,francavilla d'ete,2.0
+255,frasso sabino,0.0
+256,fratta todina,2.0
+257,fratte rosa,0.0
+258,frisa,2.0
+259,frontino,0.0
+260,frontone,0.0
+261,gagliole,2.0
+262,gallese,1.0
+263,genga,1.0
+264,giano dell'umbria,1.0
+265,giove,1.0
+266,giuliano teatino,0.0
+267,giulianova,2.0
+268,gradoli,1.0
+269,graffignano,1.0
+270,greccio,1.0
+271,grottammare,1.0
+272,grottazzolina,1.0
+273,grotte di castro,0.0
+274,gualdo,0.0
+275,gualdo cattaneo,1.0
+276,gualdo tadino,2.0
+277,guardea,1.0
+278,guardiagrele,0.0
+279,gubbio,3.0
+280,isola del gran sasso d'italia,1.0
+281,isola del piano,1.0
+282,jesi,2.0
+283,l'aquila,0.0
+284,labro,1.0
+285,lanciano,1.0
+286,lapedona,1.0
+287,latera,0.0
+288,leonessa,0.0
+289,lettomanoppello,0.0
+290,lisciano niccone,2.0
+291,longone sabino,1.0
+292,loreto,3.0
+293,loreto aprutino,1.0
+294,loro piceno,0.0
+295,lubriano,1.0
+296,lucoli,1.0
+297,lugnano in teverina,1.0
+298,lunano,1.0
+299,macerata,4.0
+300,magione,4.0
+301,magliano romano,1.0
+302,magliano sabina,1.0
+303,magliano de' marsi,1.0
+304,magliano di tenna,1.0
+305,maiolati spontini,1.0
+306,maltignano,1.0
+307,manoppello,1.0
+308,manziana,1.0
+309,marcetelli,0.0
+310,marciano della chiana,2.0
+311,mare,0.0
+312,marsciano,2.0
+313,marta,2.0
+314,martinsicuro,3.0
+315,massa fermana,1.0
+316,massa martana,2.0
+317,massa d'albe,1.0
+318,massignano,0.0
+319,matelica,2.0
+320,mazzano romano,1.0
+321,mercatello sul metauro,2.0
+322,mergo,0.0
+323,micigliano,1.0
+324,miglianico,2.0
+325,mogliano,2.0
+326,molina aterno,0.0
+327,mompeo,0.0
+328,mondavio,0.0
+329,mondolfo,2.0
+330,monsampietro morico,0.0
+331,monsampolo del tronto,1.0
+332,monsano,1.0
+333,montalto delle marche,0.0
+334,montappone,0.0
+335,montasola,0.0
+336,monte castello di vibio,1.0
+337,monte cavallo,0.0
+338,monte giberto,0.0
+339,monte porzio,0.0
+340,monte rinaldo,0.0
+341,monte roberto,1.0
+342,monte romano,3.0
+343,monte san giovanni in sabina,1.0
+344,monte san giusto,3.0
+345,monte san martino,0.0
+346,monte san pietrangeli,2.0
+347,monte san vito,4.0
+348,monte santa maria tiberina,2.0
+349,monte urano,3.0
+350,monte vidon combatte,0.0
+351,monte vidon corrado,0.0
+352,montebello di bertona,1.0
+353,montebuono,0.0
+354,montecarotto,0.0
+355,montecassiano,2.0
+356,montecastrilli,3.0
+357,montecchio,2.0
+358,montecosaro,5.0
+359,montedinove,0.0
+360,montefalco,1.0
+361,montefalcone appennino,0.0
+362,montefano,2.0
+363,montefelcino,1.0
+364,montefiascone,1.0
+365,montefino,1.0
+366,montefiore dell'aso,0.0
+367,montefortino,0.0
+368,montefranco,2.0
+369,montegabbione,0.0
+370,montegallo,0.0
+371,montegiorgio,1.0
+372,montegranaro,2.0
+373,monteleone sabino,0.0
+374,monteleone d'orvieto,0.0
+375,monteleone di fermo,0.0
+376,monteleone di spoleto,0.0
+377,montelibretti,4.0
+378,montelparo,0.0
+379,montelupone,4.0
+380,montemaggiore al metauro,0.0
+381,montemarciano,3.0
+382,montemonaco,0.0
+383,montenero sabino,1.0
+384,monteprandone,2.0
+385,montepulciano,2.0
+386,monterchi,2.0
+387,montereale,0.0
+388,monterosi,0.0
+389,monterubbiano,1.0
+390,montesilvano,3.0
+391,montone,2.0
+392,montopoli di sabina,2.0
+393,montorio romano,0.0
+394,montorio al vomano,1.0
+395,montottone,0.0
+396,moresco,0.0
+397,morlupo,0.0
+398,morro reatino,0.0
+399,morro d'alba,1.0
+400,morro d'oro,2.0
+401,morrovalle,3.0
+402,mosciano sant'angelo,3.0
+403,moscufo,1.0
+404,muccia,0.0
+405,narni,2.0
+406,navelli,0.0
+407,nazzano,1.0
+408,nepi,1.0
+409,nereto,0.0
+410,nerola,1.0
+411,nespolo,0.0
+412,nocciano,0.0
+413,nocera umbra,4.0
+414,none,1.0
+415,norcia,0.0
+416,notaresco,2.0
+417,numana,2.0
+418,ocre,1.0
+419,ofena,0.0
+420,offagna,2.0
+421,offida,0.0
+422,onano,0.0
+423,orciano di pesaro,0.0
+424,oriolo romano,1.0
+425,orsogna,1.0
+426,orte,2.0
+427,ortezzano,0.0
+428,ortona,1.0
+429,orvieto,1.0
+430,orvinio,0.0
+431,osimo,3.0
+432,ostra,1.0
+433,ostra vetere,0.0
+434,otricoli,1.0
+435,ovindoli,2.0
+436,paciano,1.0
+437,paganico sabino,0.0
+438,palmiano,0.0
+439,panicale,3.0
+440,parrano,0.0
+441,passignano sul trasimeno,3.0
+442,pedaso,0.0
+443,peglio,1.0
+444,penna san giovanni,0.0
+445,penna sant'andrea,1.0
+446,penna in teverina,1.0
+447,pennabilli,0.0
+448,pennapiedimonte,0.0
+449,penne,0.0
+450,pergola,0.0
+451,perugia,7.0
+452,pescara,5.0
+453,pescorocchiano,0.0
+454,pescosansonesco,0.0
+455,petrella salto,0.0
+456,petriano,2.0
+457,petriolo,2.0
+458,petritoli,0.0
+459,piagge,1.0
+460,piandimeleto,1.0
+461,pianella,2.0
+462,piansano,0.0
+463,picciano,1.0
+464,piegaro,2.0
+465,pietracamela,1.0
+466,pietralunga,3.0
+467,pietranico,0.0
+468,pieve santo stefano,1.0
+469,pieve torina,0.0
+470,pievebovigliana,0.0
+471,pineto,3.0
+472,piobbico,0.0
+473,pioraco,0.0
+474,pizzoli,1.0
+475,poggio bustone,1.0
+476,poggio catino,0.0
+477,poggio mirteto,0.0
+478,poggio moiano,0.0
+479,poggio nativo,0.0
+480,poggio picenze,0.0
+481,poggio san lorenzo,0.0
+482,poggio san marcello,0.0
+483,poggio san vicino,2.0
+484,poggiodomo,0.0
+485,poggiofiorito,1.0
+486,polino,0.0
+487,pollenza,3.0
+488,polverigi,3.0
+489,ponzano romano,1.0
+490,ponzano di fermo,1.0
+491,popoli,0.0
+492,porano,1.0
+493,porto recanati,4.0
+494,porto san giorgio,1.0
+495,porto sant'elpidio,3.0
+496,posta,0.0
+497,potenza picena,3.0
+498,pozzaglia sabina,0.0
+499,prata d'ansidonia,0.0
+500,preci,0.0
+501,pretoro,0.0
+502,proceno,0.0
+503,radicofani,0.0
+504,rapagnano,1.0
+505,rapino,0.0
+506,recanati,6.0
+507,rieti,1.0
+508,rignano flaminio,0.0
+509,ripa teatina,2.0
+510,ripatransone,1.0
+511,ripe san ginesio,0.0
+512,rivodutri,1.0
+513,rocca santa maria,0.0
+514,rocca sinibalda,0.0
+515,rocca di cambio,1.0
+516,rocca di mezzo,1.0
+517,roccacasale,0.0
+518,roccafluvione,1.0
+519,roccamontepiano,0.0
+520,roccamorice,0.0
+521,roccantica,1.0
+522,ronciglione,2.0
+523,rosciano,2.0
+524,roseto degli abruzzi,3.0
+525,rosora,0.0
+526,rotella,1.0
+527,salisano,0.0
+528,salle,1.0
+529,saltara,0.0
+530,san benedetto del tronto,3.0
+531,san benedetto in perillis,0.0
+532,san casciano dei bagni,0.0
+533,san costanzo,2.0
+534,san demetrio ne' vestini,0.0
+535,san gemini,2.0
+536,san ginesio,1.0
+537,san giorgio di pesaro,0.0
+538,san giovanni teatino,5.0
+539,san giustino,2.0
+540,san lorenzo nuovo,1.0
+541,san lorenzo in campo,0.0
+542,san marcello,1.0
+543,san martino sulla marrucina,0.0
+544,san paolo di jesi,1.0
+545,san pio delle camere,0.0
+546,san severino marche,3.0
+547,san valentino in abruzzo citeriore,0.0
+548,san venanzo,3.0
+549,san vito chietino,2.0
+550,sansepolcro,2.0
+551,sant'anatolia di narco,1.0
+552,sant'angelo in pontano,0.0
+553,sant'angelo in vado,2.0
+554,sant'egidio alla vibrata,1.0
+555,sant'elpidio a mare,4.0
+556,sant'eusanio forconese,0.0
+557,sant'eusanio del sangro,2.0
+558,sant'ippolito,0.0
+559,sant'omero,1.0
+560,sant'oreste,1.0
+561,santa maria nuova,2.0
+562,santa vittoria in matenano,0.0
+563,sante marie,0.0
+564,santo stefano di sessanio,1.0
+565,sarnano,0.0
+566,sarteano,0.0
+567,sassocorvaro,1.0
+568,sassoferrato,1.0
+569,scafa,0.0
+570,scandriglia,0.0
+571,scheggia e pascelupo,1.0
+572,scheggino,1.0
+573,scoppito,1.0
+574,secinaro,1.0
+575,sefro,0.0
+576,selci,0.0
+577,sellano,1.0
+578,senigallia,2.0
+579,serra san quirico,1.0
+580,serra sant'abbondio,0.0
+581,serra de' conti,0.0
+582,serramonacesca,0.0
+583,serrapetrona,2.0
+584,serravalle di chienti,1.0
+585,serrungarina,0.0
+586,servigliano,0.0
+587,sestino,0.0
+588,sigillo,2.0
+589,silvi,3.0
+590,sinalunga,1.0
+591,sirolo,2.0
+592,smerillo,0.0
+593,soriano nel cimino,1.0
+594,spello,2.0
+595,spinetoli,0.0
+596,spoleto,1.0
+597,spoltore,4.0
+598,staffolo,2.0
+599,stimigliano,0.0
+600,stroncone,3.0
+601,subbiano,1.0
+602,sutri,1.0
+603,tarano,0.0
+604,tarquinia,1.0
+605,teramo,0.0
+606,terni,3.0
+607,tione degli abruzzi,0.0
+608,tocco da casauria,0.0
+609,todi,2.0
+610,toffia,1.0
+611,tolentino,3.0
+612,tolfa,4.0
+613,tollo,1.0
+614,torano nuovo,0.0
+615,torgiano,2.0
+616,tornimparte,1.0
+617,torre san patrizio,2.0
+618,torre de' passeri,0.0
+619,torrevecchia teatina,3.0
+620,torri in sabina,0.0
+621,torricella sicura,1.0
+622,torricella in sabina,1.0
+623,torrita tiberina,0.0
+624,torrita di siena,3.0
+625,tortoreto,2.0
+626,tossicia,0.0
+627,trecastelli,2.0
+628,treia,4.0
+629,trevi,2.0
+630,trevignano romano,4.0
+631,tuoro sul trasimeno,2.0
+632,turrivalignani,0.0
+633,tuscania,2.0
+634,umbertide,5.0
+635,urbania,1.0
+636,urbino,1.0
+637,urbisaglia,2.0
+638,ussita,0.0
+639,vacone,0.0
+640,vacri,0.0
+641,valentano,0.0
+642,valfabbrica,4.0
+643,valle castellana,1.0
+644,vallerano,0.0
+645,vallo di nera,1.0
+646,valtopina,2.0
+647,varco sabino,0.0
+648,vasanello,0.0
+649,vejano,0.0
+650,venarotta,1.0
+651,verghereto,0.0
+652,vetralla,1.0
+653,vicoli,0.0
+654,vignanello,0.0
+655,villa celiera,0.0
+656,villa san giovanni in tuscia,1.0
+657,villa sant'angelo,0.0
+658,villa santa lucia degli abruzzi,0.0
+659,villamagna,0.0
+660,visso,1.0
+661,viterbo,2.0
+662,vitorchiano,1.0

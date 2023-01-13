@@ -1,0 +1,340 @@
+REGIONE PROVINCIA COMUNE N_R_PRESENTATE EUR_R_PRESENTATE N_R_DA_PRESENTARE EUR_R_DA_PRESENTARE
+Abruzzo Pescara Alanno 2 2.444.348,40 1 950.000,00
+Abruzzo Teramo Atri 6 19.775.966,06 - -
+Abruzzo L'Aquila Barete 1 200.000,00 1 1.750.000,00
+Abruzzo Teramo Basciano 4 2.318.411,50 2 1.200.000,00
+Abruzzo Teramo Bellante - - 6 4.832.022,00
+Abruzzo Teramo Bisenti 2 1.609.295,25 4 1.404.512,00
+Abruzzo Pescara Bolognano 1 1.323.412,31 1 2.437.803,00
+Abruzzo Chieti Bucchianico - - 1 1.800.000,00
+Abruzzo L'Aquila Bugnara 1 466.416,00 2 200.000,00
+Abruzzo L'Aquila Cagnano Amiterno 4 2.270.000,00 9 2.135.000,00
+Abruzzo L'Aquila Calascio - - 3 4.700.000,00
+Abruzzo Teramo Campli 10 16.692.491,00 9 13.563.000,00
+Abruzzo L'Aquila Campotosto 12 14.366.441,50 8 3.745.000,00
+Abruzzo Teramo Canzano - - 1 921.973,00
+Abruzzo L'Aquila Capitignano 6 1.033.315,89 6 5.490.000,00
+Abruzzo Pescara Carpineto della Nora - - 1 600.000,00
+Abruzzo Teramo Castel Castagna 2 200.000,00 5 6.550.000,00
+Abruzzo Teramo Castellalto 2 1.353.940,00 6 9.905.409,00
+Abruzzo Teramo Castelli 7 12.667.872,15 8 8.490.000,00
+Abruzzo Pescara Castiglione a Casauria - - 2 417.064,00
+Abruzzo Teramo Castiglione Messer Raimondo 1 1.250.550,00 1 510.000,00
+Abruzzo Teramo Castilenti 2 3.943.053,00 2 2.932.055,00
+Abruzzo Teramo Cellino Attanasio 1 1.203.400,00 2 1.945.630,00
+Abruzzo Pescara Cepagatti 1 1.288.071,40 - -
+Abruzzo Teramo Cermignano 1 589.603,56 2 2.200.000,00
+Abruzzo Chieti Chieti - - 1 4.399.200,00
+Abruzzo Pescara Città Sant'Angelo 1 1.221.700,00 - -
+Abruzzo Pescara Civitaquana - - 1 830.000,00
+Abruzzo Pescara Civitella Casanova 1 180.250,00 1 126.000,00
+Abruzzo Teramo Civitella del Tronto 8 11.282.476,91 14 17.723.740,00
+Abruzzo L'Aquila Civitella Roveto - - 3 1.420.680,00
+Abruzzo Teramo Colledara 9 2.419.165,21 4 3.540.200,00
+Abruzzo Teramo Colonnella - - 4 3.500.000,00
+Abruzzo L'Aquila Corfinio 1 737.544,00 - -
+Abruzzo Teramo Corropoli 3 7.290.562,00 2 480.000,00
+Abruzzo Teramo Cortino 9 3.612.725,38 4 5.445.195,00
+Abruzzo Pescara Corvara - - 1 1.495.000,00
+Abruzzo Teramo Crognaleto 9 3.286.217,86 8 5.325.376,00
+Abruzzo Pescara Cugnoli 1 350.000,00 1 190.000,00
+Abruzzo Pescara Elice - - 3 6.149.560,00
+Abruzzo Teramo Fano Adriano 1 200.000,00 1 1.750.000,00
+Abruzzo Pescara Farindola 2 611.700,00 6 5.520.000,00
+Abruzzo Teramo Giulianova 3 20.742.960,15 - -
+Abruzzo Teramo Isola del Gran Sasso d'Italia 9 6.957.720,61 17 14.353.100,00
+Abruzzo L'Aquila L'Aquila - - 1 1.750.000,00
+Abruzzo L'Aquila Lecce nei Marsi 8 4.584.300,00 - -
+Abruzzo Teramo Martinsicuro 4 2.876.710,80 1 1.494.895,00
+Abruzzo Chieti Miglianico 1 1.851.822,11 1 1.851.822,00
+Abruzzo Pescara Montebello di Bertona 1 300.000,00 - -
+Abruzzo L'Aquila Montereale 6 8.702.453,82 11 28.020.427,00
+Abruzzo Teramo Montorio al Vomano 13 9.581.768,27 11 7.696.608,00
+Abruzzo Teramo Mosciano Sant'Angelo 3 1.216.529,13 2 3.167.659,00
+Abruzzo L'Aquila Navelli 1 1.274.200,00 - -
+Abruzzo Teramo Notaresco 3 3.300.038,54 8 2.075.929,00
+Abruzzo Chieti Ortona - - 1 2.410.170,00
+Abruzzo L'Aquila Ovindoli 1 368.602,50 - -
+Abruzzo Chieti Palena - - 1 1.735.000,00
+Abruzzo Chieti Palombaro - - 1 940.872,00
+Abruzzo Teramo Penna Sant'Andrea 2 843.831,51 5 4.651.438,00
+Abruzzo Pescara Penne 3 3.688.615,00 4 15.124.803,00
+Abruzzo Pescara Pescosansonesc o 3 915.810,00 - -
+Abruzzo Pescara Picciano - - 1 3.604.809,00
+Abruzzo Teramo Pietracamela 2 370.512,87 2 2.200.000,00
+Abruzzo Pescara Pietranico - - 3 2.500.000,00
+Abruzzo L'Aquila Pizzoli 4 7.889.233,40 1 1.750.000,00
+Abruzzo Pescara Popoli 3 2.681.944,30 - -
+Abruzzo Teramo Rocca Santa Maria 4 874.107,86 3 5.250.000,00
+Abruzzo Teramo Roseto degli Abruzzi 2 2.634.785,10 - -
+Abruzzo Pescara San Valentino in Abruzzo Citeriore 2 395.194,33 6 2.130.710,00
+Abruzzo Teramo Sant'Egidio alla Vibrata 1 1.800.630,00 - -
+Abruzzo Teramo Sant'Omero 1 394.320,00 4 9.670.000,00
+Abruzzo L'Aquila Scoppito 1 1.000.019,00 - -
+Abruzzo Teramo Silvi 1 546.028,00 1 1.036.000,00
+Abruzzo L'Aquila Sulmona 2 11.094.337,00 - -
+Abruzzo Teramo Teramo 74 210.768.319,84 35 71.028.452,00
+Abruzzo Teramo Torano Nuovo 1 767.341,79 1 1.337.195,00
+Abruzzo Pescara Torre de' Passeri 2 6.283.920,00 - -
+Abruzzo Teramo Torricella Sicura 4 5.475.120,25 8 3.730.000,00
+Abruzzo Teramo Tortoreto - - 1 1.465.000,00
+Abruzzo Teramo Tossicia 7 2.226.066,44 3 3.634.654,00
+Abruzzo Teramo Valle Castellana 8 2.737.592,23 5 9.883.976,00
+Lazio Rieti Accumoli 57 57.181.146,66 49 44.340.551,00
+Lazio Rieti Amatrice 96 150.497.079,89 137 92.331.226,00
+Lazio Rieti Antrodoco 12 6.942.720,60 9 14.882.111,00
+Lazio Rieti Ascrea 2 230.319,35 - -
+Lazio Viterbo Blera 1 - - -
+Lazio Rieti Borbona 18 4.962.862,23 12 18.597.769,00
+Lazio Rieti Borgo Velino 9 3.582.377,15 4 964.857,00
+Lazio Rieti Cantalice 5 1.062.662,13 16 15.491.012,00
+Lazio Rieti Casperia - - 1 599.034,00
+Lazio Rieti Castel Sant'Angelo 2 562.100,00 3 2.200.000,00
+Lazio Rieti Cittaducale 8 14.926.675,05 8 11.056.905,00
+Lazio Rieti Cittareale 13 6.397.850,76 8 5.040.523,00
+Lazio Rieti Collevecchio 2 2.050.000,00 2 2.950.000,00
+Lazio Rieti Concerviano - - 3 220.088,00
+Lazio Rieti Configni - - 1 500.000,00
+Lazio Rieti Contigliano 2 519.859,69 1 350.000,00
+Lazio Rieti Fara in Sabina 5 8.204.036,58 - -
+Lazio Rieti Fiamignano 2 1.937.137,50 1 462.500,00
+Lazio Rieti Forano 1 1.572.790,60 - -
+Lazio Rieti Leonessa 18 9.391.453,79 9 10.846.472,00
+Lazio Rieti Longone Sabino - - 2 191.250,00
+Lazio Rieti Magliano Sabina 1 30.328,00 - -
+Lazio Rieti Micigliano 6 3.472.791,31 2 6.018.062,00
+Lazio Rieti Montopoli in Sabina 2 3.000.000,00 1 546.952,00
+Lazio Roma Nerola - - 1 1.007.704,00
+Lazio Rieti Poggio Bustone 5 4.106.242,23 5 1.734.105,00
+Lazio Rieti Poggio Mirteto 1 1.050.000,00 - -
+Lazio Rieti Poggio Moiano 1 1.900.000,00 1 1.900.000,00
+Lazio Rieti Posta 12 8.005.064,82 6 10.227.282,00
+Lazio Rieti Pozzaglia Sabina - - 1 93.104,00
+Lazio Rieti Rieti 32 98.930.424,31 23 87.287.280,00
+Lazio Rieti Rivodutri 8 2.973.895,24 6 2.838.859,00
+Lazio Rieti Rocca Sinibalda 1 2.331.345,00 2 128.000,00
+Lazio Rieti Scandriglia 1 779.180,85 - -
+Lazio Rieti Stimigliano 1 52.262,12 - -
+Lazio Rieti Tarano 2 1.312.704,25 1 683.638,00
+Lazio Rieti Torri in Sabina 1 407.987,36 - -
+Lazio Rieti Torricella in Sabina 1 752.325,00 1 495.000,00
+Lazio Rieti Varco Sabino 1 700.000,00 - -
+Lazio - Comuni vari 1 892.796,76 - -
+Marche Ascoli Piceno Acquasanta Terme 14 11.676.135,51 28 16.081.222,00
+Marche Ascoli Piceno Acquaviva Picena 1 3.480.000,00 1 43.250,00
+Marche Ancona Agugliano - - 1 70.000,00
+Marche Fermo Amandola 15 23.373.454,16 16 30.919.444,00
+Marche Ancona Ancona 1 631.440,00 3 15.316.440,00
+Marche Macerata Apiro 9 4.219.775,25 15 14.445.781,00
+Marche Macerata Appignano 2 2.623.000,00 5 1.575.000,00
+Marche Ascoli Piceno Appignano del Tronto 6 3.161.379,57 5 4.768.425,00
+Marche Ancona Arcevia 1 248.300,00 9 4.710.900,00
+Marche Ascoli Piceno Arquata del Tronto 38 41.758.810,39 71 184.501.630,00
+Marche Ascoli Piceno Ascoli Piceno 44 90.049.516,97 57 81.388.584,00
+Marche Ancona Barbara 2 1.931.000,00 1 145.000,00
+Marche Macerata Belforte del Chienti 9 1.561.996,39 12 11.250.000,00
+Marche Fermo Belmonte Piceno 4 1.367.260,00 6 3.165.000,00
+Marche Ancona Belvedere Ostrense - - 1 250.000,00
+Marche Macerata Bolognola 10 7.304.145,00 14 18.309.840,00
+Marche Pesaro e Urbino Cagli 1 5.365.201,56 - -
+Marche Macerata Caldarola 11 10.701.733,31 23 25.603.227,00
+Marche Macerata Camerino 50 102.057.307,77 86 172.789.382,00
+Marche Fermo Campofilone - - 1 138.000,00
+Marche Macerata Camporotondo di Fiastrone 9 1.443.815,41 10 4.384.170,00
+Marche Pesaro e Urbino Cantiano - - 1 95.000,00
+Marche Ascoli Piceno Carassai 1 182.315,84 9 6.151.477,00
+Marche Ascoli Piceno Castel di Lama 8 6.941.600,00 3 4.150.000,00
+Marche Ancona Castelbellino 1 568.400,00 4 1.265.800,00
+Marche Ancona Castelleone di Suasa - - 3 525.100,00
+Marche Ancona Castelplanio - - 1 200.299,00
+Marche Macerata Castelraimondo 12 11.898.100,88 19 16.049.057,00
+Marche Macerata Castelsantangel o sul Nera 37 60.582.003,32 25 15.743.926,00
+Marche Ascoli Piceno Castignano 8 3.793.452,00 16 8.407.427,00
+Marche Ascoli Piceno Castorano 2 2.300.000,00 5 2.484.393,00
+Marche Ancona Cerreto d'Esi 7 8.963.403,68 6 3.637.692,00
+Marche Macerata Cessapalombo 4 4.689.543,00 12 7.300.000,00
+Marche Ancona Chiaravalle 1 5.385.000,00 1 220.000,00
+Marche Macerata Cingoli 9 29.348.537,25 19 15.132.000,00
+Marche Macerata Civitanova Marche 1 400.000,00 9 22.052.461,00
+Marche Ascoli Piceno Colli del Tronto 8 2.484.949,71 4 1.530.524,00
+Marche Macerata Colmurano 7 3.392.998,60 6 5.372.001,00
+Marche Ascoli Piceno Comunanza 7 4.930.004,69 20 11.150.000,00
+Marche Ancona Corinaldo - - 1 - -
+Marche Macerata Corridonia 10 20.920.320,00 19 13.840.000,00
+Marche Ascoli Piceno Cossignano 5 1.670.064,00 9 10.240.872,00
+Marche Ascoli Piceno Cupra Marittima 2 3.917.344,00 6 43.740.115,00
+Marche Ancona Cupramontana 2 7.450.000,00 2 1.885.000,00
+Marche Macerata Esanatoglia 7 7.149.499,28 15 24.186.259,00
+Marche Ancona Fabriano 11 22.448.264,70 16 50.770.000,00
+Marche Fermo Falerone 5 11.000.885,35 11 11.935.786,00
+Marche Fermo Fermo 16 57.548.833,83 22 39.078.703,80
+Marche Macerata Fiastra 19 18.224.405,98 45 41.824.999,00
+Marche Ancona Filottrano 1 1.200.000,00 2 245.000,00
+Marche Macerata Fiuminata 10 4.166.936,45 9 9.955.000,00
+Marche Ascoli Piceno Folignano 6 10.085.000,00 5 3.333.000,00
+Marche Ascoli Piceno Force 6 6.517.162,50 11 26.095.920,00
+Marche Fermo Francavilla d'Ete 1 250.000,00 2 225.000,00
+Marche Pesaro e Urbino Frontone 2 633.426,20 2 1.018.250,00
+Marche Macerata Gagliole 6 767.588,99 6 4.869.520,00
+Marche Ancona Genga - - 1 70.000,00
+Marche Ascoli Piceno Grottammare 2 1.127.144,00 1 79.700,00
+Marche Fermo Grottazzolina 2 6.146.160,00 2 1.170.000,00
+Marche Macerata Gualdo 7 9.218.744,27 10 4.542.010,00
+Marche Fermo Lapedona 1 210.000,00 - -
+Marche Ancona Loreto 1 1.920.000,00 1 150.000,00
+Marche Macerata Loro Piceno 12 4.762.849,30 27 22.848.238,00
+Marche Macerata Macerata 40 119.945.722,0 26 110.297.762,00
+Marche Fermo Magliano di Tenna 1 200.000,00 2 700.000,00
+Marche Ancona Maiolati Spontini - - 2 1.006.000,00
+Marche Ascoli Piceno Maltignano 5 1.086.999,44 6 5.842.419,00
+Marche Fermo Massa Fermana 5 4.197.213,20 5 3.715.864,00
+Marche Ascoli Piceno Massignano - - 2 1.691.433,00
+Marche Macerata Matelica 14 23.775.633,15 17 54.917.000,00
+Marche Macerata Mogliano 6 9.148.434,19 11 12.634.210,00
+Marche Pesaro e Urbino Mondavio - - 4 350.000,00
+Marche Fermo Monsampietro Morico 5 1.950.929,54 5 8.110.000,00
+Marche Ascoli Piceno Monsampolo del Tronto 5 1.910.057,00 9 10.800.000,00
+Marche Ancona Monsano 1 182.300,00 - -
+Marche Ascoli Piceno Montalto delle Marche 6 5.303.120,00 19 20.185.839,00
+Marche Fermo Montappone 4 1.107.900,00 2 2.500.000,00
+Marche Macerata Monte Cavallo 10 2.641.274,31 16 9.650.896,00
+Marche Fermo Monte Giberto 1 190.000,00 1 175.000,00
+Marche Fermo Monte Rinaldo 8 3.187.033,41 7 7.357.060,00
+Marche Macerata Monte San Giusto 5 14.210.740,12 6 4.401.824,00
+Marche Macerata Monte San Martino 7 2.677.638,42 7 3.485.000,00
+Marche Fermo Monte San Pietrangeli - - 4 6.519.616,00
+Marche Ancona Monte San Vito 1 2.244.300,75 3 2.811.700,00
+Marche Fermo Monte Urano 1 7.000.000,00 5 1.813.000,00
+Marche Fermo Monte Vidon Corrado 4 585.000,00 2 1.350.000,00
+Marche Ancona Montecarotto 1 2.062.500,00 2 4.600.000,00
+Marche Macerata Montecassiano 1 920.000,00 4 2.858.000,00
+Marche Macerata Montecosaro 1 15.000,00 3 4.966.128,00
+Marche Ascoli Piceno Montedinove 3 738.252,00 7 8.859.780,00
+Marche Fermo Montefalcone Appennino 4 1.002.000,00 2 4.750.000,00
+Marche Macerata Montefano 1 2.386.790,00 7 7.918.335,00
+Marche Pesaro e Urbino Montefelcino - - 1 1.936.000,00
+Marche Fermo Montefortino 13 7.829.614,54 23 28.059.700,00
+Marche Ascoli Piceno Montegallo 23 15.997.779,20 28 20.768.645,00
+Marche Fermo Montegiorgio 8 13.938.356,10 11 27.525.000,00
+Marche Fermo Montegranaro 2 2.812.500,00 4 2.829.300,00
+Marche Fermo Monteleone di Fermo 6 1.265.000,00 4 1.210.300,00
+Marche Fermo Montelparo 7 5.433.765,69 4 10.050.000,00
+Marche Macerata Montelupone 2 3.535.292,05 7 1.890.000,00
+Marche Ascoli Piceno Montemonaco 12 8.539.018,77 28 23.054.361,00
+Marche Ascoli Piceno Monteprandon e 1 1.550.000,00 1 1.799.999,00
+Marche Fermo Monterubbiano 1 650.000,00 1 250.000,00
+Marche Fermo Montottone 1 75.000,00 3 600.000,00
+Marche Fermo Moresco 1 100.000,00 - -
+Marche Ancona Morro d'Alba - - 1 450.000,00
+Marche Macerata Morrovalle 2 1.169.500,00 5 10.240.000,00
+Marche Macerata Muccia 16 17.105.705,66 27 14.391.072,00
+Marche Ascoli Piceno Offida 6 12.637.000,00 14 14.850.000,00
+Marche Fermo Ortezzano 6 1.321.320,00 3 3.500.000,00
+Marche Ancona Osimo 2 2.070.320,00 6 2.622.910,00
+Marche Ascoli Piceno Palmiano 5 1.206.905,00 19 7.590.641,00
+Marche Macerata Penna San Giovanni 6 1.942.000,00 15 8.097.950,00
+Marche Pesaro e Urbino Pesaro 1 5.286.250,00 - -
+Marche Macerata Petriolo 6 1.132.000,00 11 10.004.606,00
+Marche Fermo Petritoli 1 1.409.600,00 1 1.000.000,00
+Marche Macerata Pieve Torina 22 33.194.625,74 20 23.383.821,00
+Marche Macerata Pioraco 14 5.281.713,35 11 10.588.123,00
+Marche Macerata Poggio San Vicino 3 342.000,00 5 2.750.000,00
+Marche Macerata Pollenza 4 602.000,00 4 1.360.000,00
+Marche Fermo Ponzano di Fermo 1 225.000,00 5 1.630.000,00
+Marche Fermo Porto Sant'Elpidio 4 4.770.959,20 3 651.940,00
+Marche Macerata Potenza Picena 4 6.348.709,90 3 1.390.000,00
+Marche Fermo Rapagnano 3 3.841.357,44 5 3.650.000,00
+Marche Macerata Recanati 4 19.538.395,02 8 23.690.068,00
+Marche Ascoli Piceno Ripatransone 2 2.350.000,00 6 2.808.205,00
+Marche Macerata Ripe San Ginesio 5 1.622.000,00 14 11.750.000,00
+Marche Ascoli Piceno Roccafluvione 7 2.127.145,19 18 2.651.650,00
+Marche Ascoli Piceno Rotella 9 8.059.014,33 11 9.300.000,00
+Marche Ascoli Piceno San Benedetto del Tronto 3 4.539.760,00 3 8.251.650,00
+Marche Macerata San Ginesio 14 35.590.650,94 24 61.254.650,00
+Marche Pesaro e Urbino San Lorenzo in Campo - - 2 400.000,00
+Marche Ancona San Marcello - - 3 4.860.000,00
+Marche Macerata San Severino Marche 19 39.100.416,38 49 130.403.540,00
+Marche Ancona Santa Maria Nuova 1 45.000,00 2 340.000,00
+Marche Fermo Santa Vittoria in Matenano 6 6.725.884,00 13 23.900.000,00
+Marche Macerata Sant'Angelo in Pontano 10 10.606.475,94 8 12.604.670,00
+Marche Fermo Sant'Elpidio a Mare 6 5.518.099,60 10 5.849.509,00
+Marche Pesaro e Urbino Sant'Ippolito - - 1 450.000,00
+Marche Macerata Sarnano 12 11.820.733,97 34 44.493.565,00
+Marche Ancona Sassoferrato 1 80.000,00 1 80.000,00
+Marche Macerata Sefro 4 442.000,00 22 11.579.675,00
+Marche Ancona Serra de' Conti 1 920.000,00 5 3.050.000,00
+Marche Ancona Serra San Quirico 1 400.000,00 2 1.335.600,00
+Marche Macerata Serrapetrona 6 1.909.395,44 5 4.345.000,00
+Marche Macerata Serravalle di Chienti 13 8.654.772,38 10 5.057.321,00
+Marche Fermo Servigliano 8 4.054.723,76 6 3.800.000,00
+Marche Fermo Smerillo 4 1.138.745,60 15 9.500.000,00
+Marche Ascoli Piceno Spinetoli 2 1.691.000,00 8 3.467.745,00
+Marche Ancona Staffolo 1 500.000,00 - -
+Marche Macerata Tolentino 17 70.973.305,67 37 92.540.725,00
+Marche Fermo Torre San Patrizio 3 1.822.350,76 2 92.113,00
+Marche Macerata Treia 6 23.199.218,45 18 58.424.666,00
+Marche Pesaro e Urbino Urbino 1 4.190.840,85 2 104.300,00
+Marche Macerata Urbisaglia 8 3.241.488,04 11 7.133.500,00
+Marche Macerata Ussita 34 61.473.778,52 56 94.286.762,00
+Marche Macerata Valfornace 12 15.443.283,16 17 16.979.579,00
+Marche Ascoli Piceno Venarotta 6 9.328.467,84 9 2.896.285,00
+Marche Macerata Visso 32 58.285.941,41 62 47.345.610,00
+Marche - Comuni area M. Sibillini 1 31.000,00 - -
+Umbria Terni Acquasparta - - 1 153.910,00
+Umbria Terni Alviano - - 1 1.900.000,00
+Umbria Terni Arrone 3 591.000,00 2 2.750.000,00
+Umbria Perugia Assisi 9 12.904.760,00 2 830.872,00
+Umbria Perugia Bastia Umbra 1 618.650,00 - -
+Umbria Perugia Bettona 1 373.798,19 2 640.000,00
+Umbria Perugia Bevagna 6 5.977.489,00 4 2.700.000,00
+Umbria Perugia Campello sul Clitunno 2 384.240,00 3 1.058.800,00
+Umbria Perugia Cannara 2 3.460.000,00 2 730.000,00
+Umbria Perugia Cascia 17 31.832.469,79 57 28.736.601,00
+Umbria Perugia Castel Ritaldi - - 3 3.534.800,00
+Umbria Perugia Cerreto di Spoleto 14 8.107.029,63 17 11.968.560,00
+Umbria Perugia Città di Castello 2 4.900.000,00 1 32.665.000,00
+Umbria Perugia Collazzone 1 550.000,00 2 439.920,00
+Umbria Perugia Costacciaro 1 630.650,00 - -
+Umbria Perugia Deruta - - 1 621.000,00
+Umbria Terni Ferentillo 6 2.131.350,00 15 16.854.035,00
+Umbria Perugia Foligno 24 75.411.060,37 1 38.995,00
+Umbria Perugia Fossato di Vico - - 7 5.066.400,00
+Umbria Perugia Giano dell'Umbria 4 4.984.724,31 1 734.000,00
+Umbria Terni Giove 1 3.603.920,00 - -
+Umbria Perugia Gualdo Cattaneo 4 2.071.760,00 2 123.090,00
+Umbria Perugia Gualdo Tadino 1 940.000,00 2 2.800.000,00
+Umbria Terni Guardea 1 1.073.250,00 - -
+Umbria Perugia Gubbio 1 666.900,00 4 3.300.000,00
+Umbria Terni Lugnano in Teverina - - 1 217.400,00
+Umbria Perugia Marsciano 1 205.111,33 2 1.132.500,00
+Umbria Perugia Massa Martana 3 843.800,00 - -
+Umbria Terni Montecastrilli 2 684.660,00 5 525.000,00
+Umbria Perugia Montefalco 2 714.288,00 4 1.050.014,00
+Umbria Terni Montefranco 3 1.450.201,50 1 1.750.000,00
+Umbria Perugia Monteleone di Spoleto 8 5.240.082,89 6 3.687.778,00
+Umbria Perugia Montone 1 219.690,00 2 357.330,00
+Umbria Perugia Nocera Umbra 2 3.238.150,00 10 3.054.280,00
+Umbria Perugia Norcia 41 84.242.894,58 57 187.438.709,00
+Umbria Terni Orvieto - - 2 3.700.000,00
+Umbria Terni Otricoli - - 1 1.214.312,00
+Umbria Perugia Paciano - - 1 250.000,00
+Umbria Terni Penna in Teverina - - 2 85.000,00
+Umbria Perugia Perugia 15 63.184.750,67 1 45.000,00
+Umbria Perugia Poggiodomo 1 200.000,00 7 2.692.600,00
+Umbria Terni Polino 7 355.360,00 2 1.950.000,00
+Umbria Perugia Preci 25 20.410.879,63 32 39.435.000,00
+Umbria Terni San Venanzo - - 1 135.640,00
+Umbria Perugia Sant'Anatolia di Narco 6 1.290.667,50 5 4.135.250,00
+Umbria Perugia Scheggia e Pascelupo - - 3 120.691,00
+Umbria Perugia Scheggino 9 1.739.169,53 10 21.750.000,00
+Umbria Perugia Sellano 4 2.492.128,81 3 2.007.612,00
+Umbria Perugia Spello - - 4 2.561.080,00
+Umbria Perugia Spoleto 31 73.590.515,16 46 49.172.894,00
+Umbria Terni Terni 2 550.742,22 5 9.771.500,00
+Umbria Perugia Todi 3 10.202.300,00 11 2.970.877,00
+Umbria Perugia Trevi 1 1.100.000,00 - -
+Umbria Perugia Umbertide 1 - - -
+Umbria Perugia Valfabbrica 1 295.000,00 2 357.568,00
+Umbria Perugia Vallo di Nera 12 2.606.741,25 11 3.935.000,00
+Umbria Perugia Valtopina 1 575.000,00 - -
+Umbria - Comuni vari 7 4.835.296,76 - - 
