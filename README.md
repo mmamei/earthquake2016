@@ -12,6 +12,7 @@ Files and data allow to reproduce all the reported experiments
 ## File content and structure
 
 - **quake_data** contains the main datasets to run the experiments. This fonder contains SHP files with regions' geometry, aggregated mobile phone data, aggregated company (AIDA) data, etc.
+The most important file is **list_ddf_createri.csv** containing the time series of aggregated CDR for the municipalities under study
 
 - **sisma2016_data** contains datasets about damage assessment and reconstructions. This data is extected from: https://sisma2016data.it
 
