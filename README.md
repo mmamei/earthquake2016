@@ -21,13 +21,12 @@ The most important file is **list_ddf_createri.csv** containing the time series 
 
 - **mobilephone_maps.ipnynp** draws maps with the results of MPE
 
-- **regression_MPE.ipynb** computes the regression described in Table 2 of the paper
+- **regression_MPE.ipynb** computes the regression described in Tables of the paper
 
-- **regression_SISMA2016.ipynb** computes the regression described in Table 3 of the paper
 
-- **aida_analysis.ipynb** and **aida_analysis_norm_by_population** process company data and computes the industrial composition of each municipality. aida_analysis computes industrial composition in terms of the fraction of the total revenue of the sector VS. total overall revenues. The result is in **quake_data/imprese_ateco_wide.csv**. aida_analysis_norm_by_population computes industrial composition in terms of number of companies per sector pro capite. The result is in **quake_data/imprese_ateco_wide_norm_by_pop.csv**.
+- **aida_analysis.ipynb** processes company data and computes the industrial composition of each municipality. aida_analysis computes industrial composition in terms of the fraction of the total revenue of the sector VS. total overall revenues. The result is in **quake_data/imprese_ateco_wide.csv**.
 
-- **Sisma-analysis.ipynb** analyse data in sisma2016_data and produces the file **quake_data/sisma_all.csv**. This is the file used in the regression *regression_SISMA2016*
+- **sisma-analysis.ipynb** analyse data in sisma2016_data and produces the file **quake_data/sisma_all.csv**. This is the file used in the regression *regression_SISMA2016*
 
 - **spatial_autocorrelation.ipynb** performs spatial autocorrelatios analysis (Moran's I)
 

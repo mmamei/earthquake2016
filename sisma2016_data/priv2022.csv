@@ -198,7 +198,7 @@ Marche,Macerata,Appignano,36,14040787.44,48,23061366.42
 Marche,Ascoli_Piceno,Appignano del Tronto,75,22533597.01,79,25532024.68
 Marche,Ancona,Arcevia,13,2037888.02,12,2192489.78
 Marche,Ascoli_Piceno,Arquata del Tronto,221,128260756.18,1472,504494118.42
-Marche,Ascoli_Piceno,Ascoli_Piceno,820,420000354.32,594,292373172.48
+Marche,Ascoli_Piceno,Ascoli Piceno,820,420000354.32,594,292373172.48
 Marche,Ancona,Barbara,-,-,2,278941.00
 Marche,Macerata,Belforte del Chienti,92,30909171.88,77,31406789.40
 Marche,Fermo,Belmonte Piceno,19,3894583.05,24,6576772.76
@@ -218,7 +218,7 @@ Marche,Ancona,Castelfidardo,3,823293.68,-,-
 Marche,Ancona,Castelleone di Suasa,4,297656.82,3,1379344.04
 Marche,Ancona,Castelplanio,10,3616166.02,8,2741524.10
 Marche,Macerata,Castelraimondo,173,66199292.90,218,104984973.28
-Marche,Macerata,Castelsantangel o sul Nera,41,32225269.90,546,207307892.14
+Marche,Macerata,Castelsantangelo sul Nera,61,32225269.90,546,207307892.14
 Marche,Ascoli_Piceno,Castignano,88,23647472.58,116,36785887.92
 Marche,Ascoli_Piceno,Castorano,33,8509088.51,37,14975622.20
 Marche,Ancona,Cerreto d'Esi,69,13742727.14,65,16218659.54
@@ -432,6 +432,7 @@ Umbria,Perugia,Spello,57,7408685.48,18,6582217.90
 Umbria,Perugia,Spoleto,714,165302797.81,395,172543337.00
 Umbria,Terni,Stroncone,2,2465898.46,1,1542895.00
 Umbria,Terni,Terni,35,8927683.86,38,12024525.00
+Umbria,Terni,Polino,3,2014000.10,2014000.10
 Umbria,Perugia,Todi,45,17804971.98,21,10314208.00
 Umbria,Perugia,Torgiano,1,140722.78,1,242477.84
 Umbria,Perugia,Trevi,39,7745279.96,15,2417802.56
